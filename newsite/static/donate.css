@@ -1,0 +1,176 @@
+.frame-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--color-lightseagreen);
+    width: 1440px;
+    height: 63px;
+  }
+  .dashboard,
+  .donate,
+  .home,
+  .search,
+  .transport {
+    position: absolute;
+    top: 16px;
+    left: 582px;
+    font-size: var(--font-size-5xl);
+    color: var(--color-white);
+  }
+  .dashboard,
+  .donate,
+  .search,
+  .transport {
+    left: 698px;
+  }
+  .donate,
+  .search,
+  .transport {
+    left: 868px;
+  }
+  .search,
+  .transport {
+    top: 15px;
+    left: 998px;
+  }
+  .search {
+    top: 21px;
+    left: 1315px;
+    font-size: var(--font-size-base);
+    font-weight: 600;
+    color: var(--color-silver);
+  }
+  .frame-item {
+    position: absolute;
+    top: 17px;
+    left: 1166px;
+    border-radius: var(--br-6xs);
+    border: 1px solid var(--color-white);
+    box-sizing: border-box;
+    width: 219px;
+    height: 29px;
+  }
+  .its-time-to,
+  .save-the-nature {
+    position: absolute;
+    font-weight: 600;
+    display: inline-block;
+  }
+  .save-the-nature {
+    top: 156px;
+    left: 97px;
+    font-size: 110px;
+    line-height: 100px;
+    color: var(--color-lightseagreen);
+    width: 576px;
+  }
+  .its-time-to {
+    top: 386px;
+    left: 109px;
+    width: 376px;
+  }
+  .group-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-3xs);
+    background-color: var(--color-lightseagreen);
+    width: 256px;
+    height: 52px;
+  }
+  .donate1 {
+    position: absolute;
+    top: 7px;
+    left: 89px;
+    font-weight: 600;
+  }
+  .rectangle-group {
+    position: absolute;
+    top: 507px;
+    left: 97px;
+    width: 256px;
+    height: 52px;
+    font-size: var(--font-size-7xl);
+    color: var(--color-white);
+  }
+  .frame-inner,
+  .rectangle-icon {
+    position: absolute;
+    top: 128px;
+    left: 846px;
+    border-radius: var(--br-6xs);
+    width: 233px;
+    height: 419px;
+    object-fit: cover;
+  }
+  .rectangle-icon {
+    top: 307px;
+    left: 1102px;
+    width: 202px;
+    height: 374px;
+  }
+  .rectangle-div {
+    position: absolute;
+    top: 617px;
+    left: 138px;
+    background-color: #dafffd;
+    width: 249px;
+    height: 276px;
+  }
+  .protect-nature {
+    position: absolute;
+    top: 724px;
+    left: 462px;
+    font-weight: 600;
+    display: inline-block;
+    width: 332px;
+  }
+  .frame-child1,
+  .line-div {
+    position: absolute;
+    top: 721.5px;
+    left: 818.5px;
+    border-right: 1px solid var(--color-black);
+    box-sizing: border-box;
+    width: 1px;
+    height: 39.21px;
+  }
+  .frame-child1 {
+    left: 1094.5px;
+  }
+  .srm-nagar-potheri {
+    position: absolute;
+    top: 727px;
+    left: 868px;
+    font-weight: 600;
+  }
+  .april {
+    position: absolute;
+    top: 718px;
+    left: 1145px;
+    font-size: 36px;
+  }
+  .group-icon {
+    position: absolute;
+    height: 29.43%;
+    width: 19.07%;
+    top: 71.79%;
+    right: 75.09%;
+    bottom: -1.22%;
+    left: 5.83%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .rectangle-parent {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 879px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-xl);
+    color: var(--color-black);
+    font-family: var(--font-nunito);
+    margin: 0;
+  }
